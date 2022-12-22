@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+
+#heading {
+    background-color: red ;
+    font-size: 60px;
+    color: white;
+    font-family:'Rubik 80s Fade', cursive;
+}
+#Paragraph{
+   
+    background-color: green ;
+    font-size: 50px;
+    color: white;
+    font-family:'Rubik 80s Fade', cursive;
+}
+#p2{
+    background-color: blue ;
+    font-size: 50px;
+    color: black;
+    font-family:'Rubik 80s Fade', cursive;
+}

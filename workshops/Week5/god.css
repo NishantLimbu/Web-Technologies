@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=DotGothic16&display=swap');
+*{
+    font-family: 'Didact Gothic', sans-serif;
+}
+img{
+            max-width: 100%;
+    background-attachment: fixed; /*applies to whole page*/
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+h1{
+    background-color: red;
+    font-size: 60px;
+    color: white;
+}
+p{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+}
