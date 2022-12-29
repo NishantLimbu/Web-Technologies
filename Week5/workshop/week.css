@@ -1,7 +1,7 @@
 .left{
     width: 50%;
     display: flex;
-    justify-content: flec-start;
+    justify-content: flex-start;
     margin: 50px;
 }
 h1{
@@ -15,7 +15,7 @@ body{
 }
 .right{
     display: flex;
-    justify-content: felx-end;
+    justify-content: flex-end;
     position: absolute;
     top: 20px;
     right:50px;
