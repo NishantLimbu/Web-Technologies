@@ -1,0 +1,150 @@
+.left{
+    width: 50%;
+    display: flex;
+    justify-content: flec-start;
+    margin: 50px;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+body{
+    background-color: red;
+
+}
+.right{
+    display: flex;
+    justify-content: felx-end;
+    position: absolute;
+    top: 20px;
+    right:50px;
+    margin: 40px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    letter-spacing:2px;
+    line-height: 20px;
+    position: right;
+}img{
+    max-width: 100%;
+    height: auto;
+}
+/* for laptop responsive */
+@media screen and (min-width: 769px) and (max-width: 1024px){
+    .left{
+        width: 50%;
+        display: flex;
+        justify-content: flec-start;
+        margin: 50px;
+    }
+    h1{
+        color: white;
+        font-size: 60px;
+        letter-spacing: 5px;
+    }
+    body{
+        background-color: red;
+    
+    }
+    .right{
+        display: flex;
+        justify-content: felx-end;
+        position: absolute;
+        top: 20px;
+        right:50px;
+        margin: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        letter-spacing:2px;
+        line-height: 20px;
+        position: right;
+    }img{
+        max-width: 100%;
+        height: auto;
+    }
+    img{
+        max-width: 100%;
+    }
+}
+/* for tablets */
+@media screen and (min-width: 481px) and (max-width: 768px){
+    .left{
+        width: 50%;
+        display: flex;
+        justify-content: flec-start;
+        margin: 50px;
+    }
+    h1{
+        color: white;
+        font-size: 60px;
+        letter-spacing: 5px;
+    }
+    body{
+        background-color: red;
+    
+    }
+    .right{
+        display: flex;
+        justify-content: felx-end;
+        position: absolute;
+        top: 20px;
+        right:50px;
+        margin: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        letter-spacing:2px;
+        line-height: 20px;
+        position: right;
+    }img{
+        max-width: 100%;
+        height: auto;
+    }
+    img{
+        max-width: 100%;
+    }
+}
+/* for mobiles */
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .left{
+        width: 50%;
+        display: flex;
+        justify-content: flec-start;
+        margin: 50px;
+    }
+    h1{
+        color: white;
+        font-size: 60px;
+        letter-spacing: 5px;
+    }
+    body{
+        background-color: red;
+    
+    }
+    .right{
+        display: flex;
+        justify-content: flex-end;
+        position: absolute;
+        top: 20px;
+        right:50px;
+        margin: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        letter-spacing:2px;
+        line-height: 20px;
+        position: right;
+    }img{
+        max-width: 100%;
+        height: auto;
+    }
+    img{
+        max-width: 100%;
+    }
+}

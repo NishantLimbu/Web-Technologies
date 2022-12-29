@@ -1,0 +1,35 @@
+.container{
+    border: 5px;
+    border-style: solid;
+    border-color:black;
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    border-style:solid;
+    border-radius:2px
+}
+.red{
+    background-color: red;
+    position: absolute;
+    right: 10px;
+}
+.green{
+    background-color: green;
+    position: fixed;
+    bottom: 100px;
+}
+.blue{
+    background-color: blue;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+
+}
+.silver{
+    background-color: silver;
+}

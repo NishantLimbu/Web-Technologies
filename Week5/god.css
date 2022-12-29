@@ -6,7 +6,7 @@ img{
             max-width: 100%;
     background-attachment: fixed; /*applies to whole page*/
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: right;
     background-size: cover;
 }
 h1{
